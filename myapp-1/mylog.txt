@@ -1,0 +1,272 @@
+[INFO ] 17:30:35.414 com.myapp.Myapp1Application - Starting Myapp1Application using Java 17.0.2 on DESKTOP-JHTCGVO with PID 33952 (D:\workspace\myapp-1\bin\main started by MCG in D:\workspace\myapp-1)
+[INFO ] 17:30:35.414 com.myapp.Myapp1Application - No active profile set, falling back to 1 default profile: "default"
+[WARN ] 17:30:35.533 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.myapp]' package. Please check your configuration.
+[INFO ] 17:30:35.583 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 17:30:35.584 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 17:30:35.584 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 17:30:35.635 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 17:30:35.637 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 17:30:35.638 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 222 ms
+[WARN ] 17:30:35.714 o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: f0202eb1-5b0d-40b9-882f-2b0392510011
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+[WARN ] 17:30:35.715 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/css/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:30:35.715 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/css/**'] with []
+[WARN ] 17:30:35.715 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/js/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:30:35.715 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/js/**'] with []
+[WARN ] 17:30:35.715 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/img/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:30:35.715 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/img/**'] with []
+[WARN ] 17:30:35.716 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/lib/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:30:35.716 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/lib/**'] with []
+[WARN ] 17:30:35.716 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore org.springframework.boot.autoconfigure.security.servlet.StaticResourceRequest$StaticResourceRequestMatcher@66649341. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:30:35.716 o.s.s.web.DefaultSecurityFilterChain - Will secure org.springframework.boot.autoconfigure.security.servlet.StaticResourceRequest$StaticResourceRequestMatcher@66649341 with []
+[INFO ] 17:30:35.725 o.s.s.web.DefaultSecurityFilterChain - Will not secure any request
+[INFO ] 17:30:35.826 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 17:30:35.836 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 17:30:35.847 com.myapp.Myapp1Application - Started Myapp1Application in 0.463 seconds (JVM running for 466.346)
+[INFO ] 17:30:35.849 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 17:31:12.599 com.myapp.Myapp1Application - Starting Myapp1Application using Java 17.0.2 on DESKTOP-JHTCGVO with PID 33952 (D:\workspace\myapp-1\bin\main started by MCG in D:\workspace\myapp-1)
+[INFO ] 17:31:12.599 com.myapp.Myapp1Application - The following 1 profile is active: "local"
+[WARN ] 17:31:12.689 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.myapp]' package. Please check your configuration.
+[INFO ] 17:31:12.723 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 17:31:12.723 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 17:31:12.723 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 17:31:12.771 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 17:31:12.773 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 17:31:12.773 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 172 ms
+[WARN ] 17:31:12.825 o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 1e7c095d-1397-4679-9c72-12722c5d70dd
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+[WARN ] 17:31:12.827 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/css/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:31:12.827 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/css/**'] with []
+[WARN ] 17:31:12.827 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/js/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:31:12.827 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/js/**'] with []
+[WARN ] 17:31:12.827 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/img/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:31:12.827 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/img/**'] with []
+[WARN ] 17:31:12.827 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/lib/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:31:12.827 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/lib/**'] with []
+[WARN ] 17:31:12.827 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore org.springframework.boot.autoconfigure.security.servlet.StaticResourceRequest$StaticResourceRequestMatcher@5fa9da31. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:31:12.827 o.s.s.web.DefaultSecurityFilterChain - Will secure org.springframework.boot.autoconfigure.security.servlet.StaticResourceRequest$StaticResourceRequestMatcher@5fa9da31 with []
+[INFO ] 17:31:12.837 o.s.s.web.DefaultSecurityFilterChain - Will not secure any request
+[INFO ] 17:31:12.919 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 17:31:12.927 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 17:31:12.933 com.myapp.Myapp1Application - Started Myapp1Application in 0.351 seconds (JVM running for 503.432)
+[INFO ] 17:31:12.935 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 17:31:15.883 com.myapp.Myapp1Application - Starting Myapp1Application using Java 17.0.2 on DESKTOP-JHTCGVO with PID 33952 (D:\workspace\myapp-1\bin\main started by MCG in D:\workspace\myapp-1)
+[INFO ] 17:31:15.884 com.myapp.Myapp1Application - The following 1 profile is active: "local"
+[WARN ] 17:31:15.970 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.myapp]' package. Please check your configuration.
+[INFO ] 17:31:16.001 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 17:31:16.001 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 17:31:16.001 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 17:31:16.043 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 17:31:16.044 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 17:31:16.044 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 159 ms
+[WARN ] 17:31:16.093 o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 2d09f2ee-dcad-4f17-93b8-2cd77ac44e4f
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+[WARN ] 17:31:16.095 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/css/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:31:16.095 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/css/**'] with []
+[WARN ] 17:31:16.095 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/js/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:31:16.095 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/js/**'] with []
+[WARN ] 17:31:16.095 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/img/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:31:16.095 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/img/**'] with []
+[WARN ] 17:31:16.095 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/lib/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:31:16.095 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/lib/**'] with []
+[WARN ] 17:31:16.095 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore org.springframework.boot.autoconfigure.security.servlet.StaticResourceRequest$StaticResourceRequestMatcher@1743b10c. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:31:16.095 o.s.s.web.DefaultSecurityFilterChain - Will secure org.springframework.boot.autoconfigure.security.servlet.StaticResourceRequest$StaticResourceRequestMatcher@1743b10c with []
+[INFO ] 17:31:16.103 o.s.s.web.DefaultSecurityFilterChain - Will not secure any request
+[INFO ] 17:31:16.181 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 17:31:16.189 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 17:31:16.195 com.myapp.Myapp1Application - Started Myapp1Application in 0.325 seconds (JVM running for 506.694)
+[INFO ] 17:31:16.196 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 17:32:30.758 o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 17:32:32.154 com.myapp.Myapp1Application - Starting Myapp1Application using Java 17.0.2 on DESKTOP-JHTCGVO with PID 33252 (D:\workspace\myapp-1\bin\main started by MCG in D:\workspace\myapp-1)
+[INFO ] 17:32:32.156 com.myapp.Myapp1Application - The following 1 profile is active: "local"
+[INFO ] 17:32:32.196 o.s.b.d.restart.ChangeableUrls - The Class-Path manifest attribute in C:\Users\MCG\.gradle\caches\modules-2\files-2.1\com.oracle.database.jdbc\ojdbc8\21.3.0.0\73649ab9bfb94daa4df21b80c98ac35aea4aa2f5\ojdbc8-21.3.0.0.jar referenced one or more files that do not exist: file:/C:/Users/MCG/.gradle/caches/modules-2/files-2.1/com.oracle.database.jdbc/ojdbc8/21.3.0.0/73649ab9bfb94daa4df21b80c98ac35aea4aa2f5/oraclepki.jar
+[INFO ] 17:32:32.196 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 17:32:32.196 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[WARN ] 17:32:32.651 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.myapp]' package. Please check your configuration.
+[INFO ] 17:32:32.975 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 17:32:32.986 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 17:32:32.987 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 17:32:32.987 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 17:32:33.118 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 17:32:33.127 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 17:32:33.128 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 931 ms
+[WARN ] 17:32:33.405 o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 2bf4336c-4c42-49fa-8baf-57a5300d2c13
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+[WARN ] 17:32:33.441 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/css/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:32:33.441 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/css/**'] with []
+[WARN ] 17:32:33.441 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/js/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:32:33.441 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/js/**'] with []
+[WARN ] 17:32:33.442 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/img/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:32:33.442 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/img/**'] with []
+[WARN ] 17:32:33.442 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/lib/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:32:33.442 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/lib/**'] with []
+[WARN ] 17:32:33.442 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore org.springframework.boot.autoconfigure.security.servlet.StaticResourceRequest$StaticResourceRequestMatcher@19dfca78. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:32:33.442 o.s.s.web.DefaultSecurityFilterChain - Will secure org.springframework.boot.autoconfigure.security.servlet.StaticResourceRequest$StaticResourceRequestMatcher@19dfca78 with []
+[INFO ] 17:32:33.463 o.s.s.web.DefaultSecurityFilterChain - Will not secure any request
+[INFO ] 17:32:33.856 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 17:32:33.869 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 17:32:33.890 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 17:32:33.905 com.myapp.Myapp1Application - Started Myapp1Application in 2.021 seconds (JVM running for 2.668)
+[INFO ] 17:32:37.641 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 17:32:37.641 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 17:32:37.642 o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[INFO ] 17:32:38.252 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[WARN ] 17:32:38.254 c.z.hikari.util.DriverDataSource - Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+[INFO ] 17:32:38.477 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 17:44:06.167 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 17:44:06.179 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 17:44:06.235 com.myapp.Myapp1Application - Starting Myapp1Application using Java 17.0.2 on DESKTOP-JHTCGVO with PID 33252 (D:\workspace\myapp-1\bin\main started by MCG in D:\workspace\myapp-1)
+[INFO ] 17:44:06.235 com.myapp.Myapp1Application - The following 1 profile is active: "local"
+[WARN ] 17:44:06.350 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.myapp]' package. Please check your configuration.
+[INFO ] 17:44:06.399 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 17:44:06.399 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 17:44:06.400 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 17:44:06.400 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 17:44:06.452 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 17:44:06.454 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 17:44:06.454 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 217 ms
+[WARN ] 17:44:06.520 o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 65f42f57-1b1c-4f66-abf0-4508f18727e5
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+[WARN ] 17:44:06.522 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/css/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:44:06.522 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/css/**'] with []
+[WARN ] 17:44:06.522 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/js/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:44:06.522 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/js/**'] with []
+[WARN ] 17:44:06.522 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/img/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:44:06.522 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/img/**'] with []
+[WARN ] 17:44:06.522 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/lib/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:44:06.522 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/lib/**'] with []
+[WARN ] 17:44:06.522 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore org.springframework.boot.autoconfigure.security.servlet.StaticResourceRequest$StaticResourceRequestMatcher@43aac71b. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:44:06.522 o.s.s.web.DefaultSecurityFilterChain - Will secure org.springframework.boot.autoconfigure.security.servlet.StaticResourceRequest$StaticResourceRequestMatcher@43aac71b with []
+[INFO ] 17:44:06.530 o.s.s.web.DefaultSecurityFilterChain - Will not secure any request
+[INFO ] 17:44:06.627 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 17:44:06.633 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 17:44:06.637 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 17:44:06.644 com.myapp.Myapp1Application - Started Myapp1Application in 0.429 seconds (JVM running for 695.406)
+[INFO ] 17:44:06.645 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 17:44:25.843 com.myapp.Myapp1Application - Starting Myapp1Application using Java 17.0.2 on DESKTOP-JHTCGVO with PID 33252 (D:\workspace\myapp-1\bin\main started by MCG in D:\workspace\myapp-1)
+[INFO ] 17:44:25.843 com.myapp.Myapp1Application - The following 1 profile is active: "local"
+[WARN ] 17:44:25.948 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.myapp]' package. Please check your configuration.
+[INFO ] 17:44:25.994 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 17:44:25.994 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 17:44:25.994 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 17:44:25.994 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 17:44:26.047 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 17:44:26.048 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 17:44:26.048 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 204 ms
+[WARN ] 17:44:26.105 o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 4f1aba2f-c282-4177-ac1e-a622562dbf3f
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+[WARN ] 17:44:26.107 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/css/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:44:26.107 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/css/**'] with []
+[WARN ] 17:44:26.107 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/js/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:44:26.107 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/js/**'] with []
+[WARN ] 17:44:26.107 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/img/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:44:26.107 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/img/**'] with []
+[WARN ] 17:44:26.107 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/lib/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:44:26.108 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/lib/**'] with []
+[WARN ] 17:44:26.108 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore org.springframework.boot.autoconfigure.security.servlet.StaticResourceRequest$StaticResourceRequestMatcher@5f5cdbbd. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:44:26.108 o.s.s.web.DefaultSecurityFilterChain - Will secure org.springframework.boot.autoconfigure.security.servlet.StaticResourceRequest$StaticResourceRequestMatcher@5f5cdbbd with []
+[INFO ] 17:44:26.115 o.s.s.web.DefaultSecurityFilterChain - Will not secure any request
+[INFO ] 17:44:26.200 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 17:44:26.205 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 17:44:26.209 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 17:44:26.215 com.myapp.Myapp1Application - Started Myapp1Application in 0.391 seconds (JVM running for 714.979)
+[INFO ] 17:44:26.217 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 17:44:32.626 com.myapp.Myapp1Application - Starting Myapp1Application using Java 17.0.2 on DESKTOP-JHTCGVO with PID 33252 (D:\workspace\myapp-1\bin\main started by MCG in D:\workspace\myapp-1)
+[INFO ] 17:44:32.626 com.myapp.Myapp1Application - The following 1 profile is active: "local"
+[WARN ] 17:44:32.730 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.myapp]' package. Please check your configuration.
+[INFO ] 17:44:32.765 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 17:44:32.765 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 17:44:32.765 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 17:44:32.765 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 17:44:32.805 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 17:44:32.807 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 17:44:32.807 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 179 ms
+[WARN ] 17:44:32.858 o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: e9f3f7dd-13a7-49fc-9507-4331b482c7e8
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+[WARN ] 17:44:32.860 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/css/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:44:32.860 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/css/**'] with []
+[WARN ] 17:44:32.860 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/js/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:44:32.860 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/js/**'] with []
+[WARN ] 17:44:32.860 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/img/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:44:32.860 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/img/**'] with []
+[WARN ] 17:44:32.860 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/lib/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:44:32.860 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/lib/**'] with []
+[WARN ] 17:44:32.860 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore org.springframework.boot.autoconfigure.security.servlet.StaticResourceRequest$StaticResourceRequestMatcher@3bfb52ba. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:44:32.860 o.s.s.web.DefaultSecurityFilterChain - Will secure org.springframework.boot.autoconfigure.security.servlet.StaticResourceRequest$StaticResourceRequestMatcher@3bfb52ba with []
+[INFO ] 17:44:32.867 o.s.s.web.DefaultSecurityFilterChain - Will not secure any request
+[INFO ] 17:44:32.942 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 17:44:32.946 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 17:44:32.950 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 17:44:32.960 com.myapp.Myapp1Application - Started Myapp1Application in 0.349 seconds (JVM running for 721.723)
+[INFO ] 17:44:32.960 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 17:44:39.856 o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 17:44:41.258 com.myapp.Myapp1Application - Starting Myapp1Application using Java 17.0.2 on DESKTOP-JHTCGVO with PID 34992 (D:\workspace\myapp-1\bin\main started by MCG in D:\workspace\myapp-1)
+[INFO ] 17:44:41.258 com.myapp.Myapp1Application - The following 1 profile is active: "local"
+[INFO ] 17:44:41.291 o.s.b.d.restart.ChangeableUrls - The Class-Path manifest attribute in C:\Users\MCG\.gradle\caches\modules-2\files-2.1\com.oracle.database.jdbc\ojdbc8\21.3.0.0\73649ab9bfb94daa4df21b80c98ac35aea4aa2f5\ojdbc8-21.3.0.0.jar referenced one or more files that do not exist: file:/C:/Users/MCG/.gradle/caches/modules-2/files-2.1/com.oracle.database.jdbc/ojdbc8/21.3.0.0/73649ab9bfb94daa4df21b80c98ac35aea4aa2f5/oraclepki.jar
+[INFO ] 17:44:41.291 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 17:44:41.291 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[WARN ] 17:44:41.725 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.myapp]' package. Please check your configuration.
+[INFO ] 17:44:42.048 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 17:44:42.060 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 17:44:42.060 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 17:44:42.061 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 17:44:42.188 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 17:44:42.197 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 17:44:42.197 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 905 ms
+[WARN ] 17:44:42.479 o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 5241df48-9ae0-4e20-b980-98f8e9e9486e
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+[WARN ] 17:44:42.519 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/css/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:44:42.520 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/css/**'] with []
+[WARN ] 17:44:42.520 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/js/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:44:42.520 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/js/**'] with []
+[WARN ] 17:44:42.520 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/img/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:44:42.521 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/img/**'] with []
+[WARN ] 17:44:42.521 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/lib/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:44:42.521 o.s.s.web.DefaultSecurityFilterChain - Will secure Ant [pattern='/lib/**'] with []
+[WARN ] 17:44:42.521 o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore org.springframework.boot.autoconfigure.security.servlet.StaticResourceRequest$StaticResourceRequestMatcher@4d70e713. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+[INFO ] 17:44:42.521 o.s.s.web.DefaultSecurityFilterChain - Will secure org.springframework.boot.autoconfigure.security.servlet.StaticResourceRequest$StaticResourceRequestMatcher@4d70e713 with []
+[INFO ] 17:44:42.542 o.s.s.web.DefaultSecurityFilterChain - Will not secure any request
+[INFO ] 17:44:42.930 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 17:44:42.942 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 17:44:42.966 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 17:44:42.980 com.myapp.Myapp1Application - Started Myapp1Application in 2.012 seconds (JVM running for 2.64)
+[INFO ] 17:44:53.097 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 17:44:53.098 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 17:44:53.099 o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[INFO ] 17:44:54.319 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[WARN ] 17:44:54.322 c.z.hikari.util.DriverDataSource - Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+[INFO ] 17:44:54.576 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 17:47:51.473 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 17:47:51.484 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
